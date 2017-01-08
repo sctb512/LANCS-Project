@@ -57,7 +57,7 @@
 <XPD:OBJ name="OwnedViews[0]" type="UMLClassView" guid="9d8t2FfVREeGWAESXehbBQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">264</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">260</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">120</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">352</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">256</XPD:ATTR>
@@ -119,7 +119,7 @@
 <XPD:OBJ name="OwnedViews[2]" type="UMLAssociationView" guid="DloggQde0EiqWC56rBo0uQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">438,120;438,87</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">436,120;436,87</XPD:ATTR>
 <XPD:REF name="Model">kjqbgvcp+ECzz3pb3w5noQAA</XPD:REF>
 <XPD:REF name="Head">J6MA/IgvZkO58bd7ewu67wAA</XPD:REF>
 <XPD:REF name="Tail">9d8t2FfVREeGWAESXehbBQAA</XPD:REF>
@@ -211,48 +211,56 @@
 <XPD:REF name="Views[1]">xYWI+lTs0UWL8rWpJKAyRQAA</XPD:REF>
 <XPD:REF name="Views[2]">9Fsl7rkf0UimzPPsE9Q+AwAA</XPD:REF>
 <XPD:REF name="Views[3]">6J0FnGUzx0GsImPfAEEf2AAA</XPD:REF>
-<XPD:ATTR name="#Operations" type="integer">5</XPD:ATTR>
+<XPD:ATTR name="#Operations" type="integer">3</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="JC/CRNVwC0yIsgFj0+L8TAAA">
-<XPD:ATTR name="Name" type="string">Operation1</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">findUser</XPD:ATTR>
 <XPD:REF name="Owner">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[1]" type="UMLOperation" guid="sStnGjNTgE6+gI30deQjMwAA">
-<XPD:ATTR name="Name" type="string">Operation2</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">miniTray</XPD:ATTR>
 <XPD:REF name="Owner">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[2]" type="UMLOperation" guid="Vyiq6S2oN0yS+nw7PJlhHAAA">
-<XPD:ATTR name="Name" type="string">Operation3</XPD:ATTR>
-<XPD:REF name="Owner">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Operations[3]" type="UMLOperation" guid="mERt5TRByUGPlQDgGPT6pwAA">
-<XPD:ATTR name="Name" type="string">Operation4</XPD:ATTR>
-<XPD:REF name="Owner">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Operations[4]" type="UMLOperation" guid="6I4GYs2a+0+5hhkxxJrPjAAA">
-<XPD:ATTR name="Name" type="string">Operation5</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">loginSuccess</XPD:ATTR>
 <XPD:REF name="Owner">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:ATTR name="#Associations" type="integer">1</XPD:ATTR>
 <XPD:REF name="Associations[0]">VDYsRjnyjkqZSYIq6U1ObwAA</XPD:REF>
-<XPD:ATTR name="#Attributes" type="integer">5</XPD:ATTR>
+<XPD:ATTR name="#Attributes" type="integer">9</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="60IB4xs3Y02BRPDYr0wnfAAA">
-<XPD:ATTR name="Name" type="string">Attribute1</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">bgPanel</XPD:ATTR>
 <XPD:REF name="Owner">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="zjjB6y32w0mdaehvkDdoegAA">
-<XPD:ATTR name="Name" type="string">Attribute2</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">bgLabel</XPD:ATTR>
 <XPD:REF name="Owner">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="VJcGBA3jDECV2uV9710TpgAA">
-<XPD:ATTR name="Name" type="string">Attribute3</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">mainPanel</XPD:ATTR>
 <XPD:REF name="Owner">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="K6esRTAuAkWuW5A2zw0JawAA">
-<XPD:ATTR name="Name" type="string">Attribute4</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">minButton</XPD:ATTR>
 <XPD:REF name="Owner">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[4]" type="UMLAttribute" guid="HyqaavT5R0qou2rqTBLhpQAA">
-<XPD:ATTR name="Name" type="string">Attribute5</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">closeButton</XPD:ATTR>
+<XPD:REF name="Owner">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[5]" type="UMLAttribute" guid="edCYI3uxxUu/9ekFCSy8RQAA">
+<XPD:ATTR name="Name" type="string">username</XPD:ATTR>
+<XPD:REF name="Owner">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[6]" type="UMLAttribute" guid="T4IqdCtAg0qd0wYdB3+C3QAA">
+<XPD:ATTR name="Name" type="string">password</XPD:ATTR>
+<XPD:REF name="Owner">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[7]" type="UMLAttribute" guid="VXLRpGB7DEOa6bjz6JoGMAAA">
+<XPD:ATTR name="Name" type="string">register</XPD:ATTR>
+<XPD:REF name="Owner">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
+</XPD:OBJ>
+<XPD:OBJ name="Attributes[8]" type="UMLAttribute" guid="2KKvHbR0qUqzP+RfWjZZbQAA">
+<XPD:ATTR name="Name" type="string">login</XPD:ATTR>
 <XPD:REF name="Owner">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
@@ -293,8 +301,8 @@
 <XPD:REF name="Participant">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">ZJFOCDpKsEK9z/9pzm1yuQAA</XPD:REF>
-<XPD:REF name="Views[1]">SF+i6f5T806tJcCkup+WRgAA</XPD:REF>
-<XPD:REF name="Views[2]">1SIG04mnCEiO2rIkUabcowAA</XPD:REF>
+<XPD:REF name="Views[1]">1SIG04mnCEiO2rIkUabcowAA</XPD:REF>
+<XPD:REF name="Views[2]">SF+i6f5T806tJcCkup+WRgAA</XPD:REF>
 <XPD:REF name="Views[3]">34uHRBzlHkm5gWTgZNjTlwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="beBZr2nzbkKKatPKQXy9lwAA">
@@ -302,8 +310,8 @@
 <XPD:REF name="Participant">teiaEX+MAEy38eTPbPygpQAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">Ql+ThtY43ky1HwNm3S4OfAAA</XPD:REF>
-<XPD:REF name="Views[1]">ZBKjQYU2XEi7mKlXlX7S9wAA</XPD:REF>
-<XPD:REF name="Views[2]">2vzgjIbeCEWtff8WPfamFQAA</XPD:REF>
+<XPD:REF name="Views[1]">2vzgjIbeCEWtff8WPfamFQAA</XPD:REF>
+<XPD:REF name="Views[2]">ZBKjQYU2XEi7mKlXlX7S9wAA</XPD:REF>
 <XPD:REF name="Views[3]">/xSJkvPiX0u7qAy8txXqtgAA</XPD:REF>
 </XPD:OBJ>
 </XPD:OBJ>
