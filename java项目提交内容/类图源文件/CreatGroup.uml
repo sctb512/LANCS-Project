@@ -57,10 +57,10 @@
 <XPD:OBJ name="OwnedViews[0]" type="UMLClassView" guid="a+/YyzabMEe3lyMYYgiKjQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">432</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">224</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">352</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">248</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">348</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">148</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">257</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">177</XPD:ATTR>
 <XPD:REF name="Model">bnqCegve2kK+ZUq7KrXg4wAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="+i7jDUEOwkyotz4lyNyycQAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="0QKEqndKykuAOsHNVMHOcQAA">
@@ -88,10 +88,10 @@
 <XPD:OBJ name="OwnedViews[1]" type="UMLInterfaceView" guid="JtyZKNCha0abg09TEbaXFAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">452</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">20</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">224</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">96</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">384</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">52</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">173</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">69</XPD:ATTR>
 <XPD:ATTR name="StereotypeDisplay" type="UMLStereotypeDisplayKind">sdkIcon</XPD:ATTR>
 <XPD:REF name="Model">QxZ1YT0lb0iKQ2u19q5LKQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="h/kYLo40Q0CLOufNyQfPjwAA">
@@ -118,7 +118,7 @@
 <XPD:OBJ name="OwnedViews[2]" type="UMLRealizationView" guid="x18wclwWlkmbtBC1ymJRvwAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">588,224;568,92</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">472,148;470,97</XPD:ATTR>
 <XPD:REF name="Model">K6eGk2OP00CLsMimqw+aIwAA</XPD:REF>
 <XPD:REF name="Head">JtyZKNCha0abg09TEbaXFAAA</XPD:REF>
 <XPD:REF name="Tail">a+/YyzabMEe3lyMYYgiKjQAA</XPD:REF>

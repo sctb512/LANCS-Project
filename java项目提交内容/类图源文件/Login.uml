@@ -59,8 +59,8 @@
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">260</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">120</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">352</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">256</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">305</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">205</XPD:ATTR>
 <XPD:REF name="Model">/iHUZ+4rkEWfW0PczrDYqgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="18U5v5EqIUW9CNz8VKHFRAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="aOSXkof60U+xaI82N4shAgAA">
@@ -88,10 +88,10 @@
 <XPD:OBJ name="OwnedViews[1]" type="UMLClassView" guid="J6MA/IgvZkO58bd7ewu67wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">364</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">16</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">148</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">72</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">352</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">36</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">113</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">65</XPD:ATTR>
 <XPD:REF name="Model">teiaEX+MAEy38eTPbPygpQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="xO2njDB0xUKo4q8zad6IGAAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="RQhSsOqD4E2tXDbRJrnzWwAA">
@@ -119,7 +119,7 @@
 <XPD:OBJ name="OwnedViews[2]" type="UMLAssociationView" guid="DloggQde0EiqWC56rBo0uQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">436,120;436,87</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">409,120;409,100</XPD:ATTR>
 <XPD:REF name="Model">kjqbgvcp+ECzz3pb3w5noQAA</XPD:REF>
 <XPD:REF name="Head">J6MA/IgvZkO58bd7ewu67wAA</XPD:REF>
 <XPD:REF name="Tail">9d8t2FfVREeGWAESXehbBQAA</XPD:REF>
